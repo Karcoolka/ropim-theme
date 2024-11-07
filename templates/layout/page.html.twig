@@ -267,8 +267,10 @@
     {% endblock %}
     {# End Post-footer #}
 
-    {% if has_footer_housekeeping %}
-      {{ page.footer_housekeeping }}
+    {% if has_housekeeping %}
+      <div class="lgd-footer__housekeeping">
+      {{ page.housekeeping }}
+      </div>
     {% endif %}
 
     </footer>
