@@ -267,6 +267,10 @@
     {% endblock %}
     {# End Post-footer #}
 
+    {% if has_footer_housekeeping %}
+      {{ page.footer_housekeeping }}
+    {% endif %}
+
     </footer>
   {% endif %}
 {% endblock %}
