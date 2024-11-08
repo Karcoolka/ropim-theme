@@ -42,9 +42,13 @@
   --subsite-extra-link-bg-color-hover: var(--subsite-extra-color-contrast);
   --subsite-extra-menu-title-color: var(--subsite-extra-color-contrast);
   --subsite-extra-region-bg-color: var(--subsite-extra-color);
+  --subsite-extra-region-padding-left: var(--spacing); /* Deprecated */
   --subsite-extra-region-padding-inline-start: var(--spacing);
+  --subsite-extra-region-padding-right: var(--spacing); /* Deprecated */
   --subsite-extra-region-padding-inline-end: var(--spacing);
+  --subsite-extra-region-padding-top: var(--spacing); /* Deprecated */
   --subsite-extra-region-padding-block-start: var(--spacing);
+  --subsite-extra-region-padding-bottom: 0; /* Deprecated */
   --subsite-extra-region-padding-block-end: 0;
   --subsite-extra-menu-items-gap: var(--spacing);
   --subsite-extra-menu-title-font-family: var(--font-primary);
@@ -53,6 +57,7 @@
   --subsite-extra-link-spacing-inline: var(--spacing);
   --subsite-extra-link-spacing-block: var(--spacing);
   --subsite-extra-link-underline-thickness: max(3px, 0.1875rem, 0.12em);
+  --subsite-extra-header-padding-bottom: 0; /* Deprecated */
   --subsite-extra-header-padding-block-end: 0;
 }
 

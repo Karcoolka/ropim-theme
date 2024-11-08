@@ -31,35 +31,35 @@
   --color-page-section-text-color: var(--color-page-section-background-color-6-text-color);
 }
 
-.lgd-page-section--padding-block-start-small {
+.lgd-page-section--padding-top-small {
   padding-block-start: var(--spacing-small);
 }
-.lgd-page-section--padding-block-start-medium {
+.lgd-page-section--padding-top-medium {
   padding-block-start: var(--spacing);
 }
-.lgd-page-section--padding-block-start-large {
+.lgd-page-section--padding-top-large {
   padding-block-start: var(--spacing-large);
 }
-.lgd-page-section--padding-block-start-larger {
+.lgd-page-section--padding-top-larger {
   padding-block-start: var(--spacing-larger);
 }
-.lgd-page-section--padding-block-start-largest {
+.lgd-page-section--padding-top-largest {
   padding-block-start: var(--spacing-largest);
 }
 
-.lgd-page-section--padding-block-end-small {
+.lgd-page-section--padding-bottom-small {
   padding-block-end: var(--spacing-small);
 }
-.lgd-page-section--padding-block-end-medium {
+.lgd-page-section--padding-bottom-medium {
   padding-block-end: var(--spacing);
 }
-.lgd-page-section--padding-block-end-large {
+.lgd-page-section--padding-bottom-large {
   padding-block-end: var(--spacing-large);
 }
-.lgd-page-section--padding-block-end-larger {
+.lgd-page-section--padding-bottom-larger {
   padding-block-end: var(--spacing-larger);
 }
-.lgd-page-section--padding-block-end-largest {
+.lgd-page-section--padding-bottom-largest {
   padding-block-end: var(--spacing-largest);
 }
 

@@ -257,6 +257,7 @@ body {
 
   /* File Upload Items */
   --file-upload-border: var(--border);
+  --file-upload-border-left-size: var(--border-width-large); /* Deprecated */
   --file-upload-border-inline-start-size: var(--border-width-large);
   --file-upload-border-color: var(--color-accent);
   --file-upload-bg-hover-color: var(--color-accent);
@@ -321,6 +322,7 @@ body {
 
   /* Quote */
   --quote-padding: var(--spacing-larger);
+  --quote-padding-left: var(--spacing-larger); /* Deprecated */
   --quote-padding-inline-start: var(--spacing-larger);
   --quote-border: var(--border-large);
   --quote-border-color: var(--color-accent);
