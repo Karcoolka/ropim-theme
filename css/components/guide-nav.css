@@ -35,6 +35,5 @@
 }
 
 .block-localgov-guides-contents {
-  margin-block-start: var(--spacing-largest);
-  margin-block-end: var(--spacing-largest);
+  margin-block: var(--spacing-largest);
 }
