@@ -202,6 +202,15 @@ th {
   background-color: var(--table-bg-color);
 }
 
+/* Responsive tables for table field tables */
+.field--name-localgov-table {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.tablefield-wrapper {
+  overflow-x: auto;
+}
+
 input,
 select,
 option,
