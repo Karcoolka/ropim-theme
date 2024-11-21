@@ -415,6 +415,7 @@ body {
   /* News */
   --newsroom-featured-bottom-space: var(--spacing-largest);
   --news-category-spacing: var(--spacing);
+  --newsroom-featured-space-after-items: var(--spacing);
 
   /* Search Results */
   --sitewide-search-header-container-padding-horizontal: var(--spacing);
