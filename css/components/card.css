@@ -1,0 +1,25 @@
+/*
+  @file Theming the card view mode, and lists that render teasers.
+*/
+
+.lgd-card {
+  display: block;
+  height: var(--card-featured-height);
+  border: var(--card-featured-border);
+  border-color: var(--card-featured-border-color);
+}
+.lgd-card__image {
+  width: 100%;
+}
+
+.lgd-card__image img {
+  width: 100%;
+}
+
+.lgd-card__content {
+  padding: var(--card-featured-content-padding);
+}
+
+.lgd-card__image + .lgd-card__content {
+  margin-inline-start: 0;
+}
