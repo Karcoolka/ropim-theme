@@ -4,9 +4,9 @@
 
 .lgd-card {
   display: block;
-  height: var(--card-featured-height);
-  border: var(--card-featured-border);
-  border-color: var(--card-featured-border-color);
+  height: var(--card-height);
+  border: var(--card-border);
+  border-color: var(--card-border-color);
 }
 .lgd-card__image {
   width: 100%;
@@ -17,7 +17,7 @@
 }
 
 .lgd-card__content {
-  padding: var(--card-featured-content-padding);
+  padding: var(--card-content-padding);
 }
 
 .lgd-card__image + .lgd-card__content {
