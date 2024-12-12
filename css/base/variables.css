@@ -412,6 +412,12 @@ body {
   --teaser-featured-border: var(--border);
   --teaser-featured-border-color: var(--border-color-dark);
 
+  /* Card View Mode */
+  --card-height: var(--teaser-featured-height);
+  --card-border: var(--teaser-featured-border);
+  --card-border-color: var(--teaser-featured-border-color);
+  --card-content-padding: var(--teaser-featured-content-padding);
+
   /* News */
   --newsroom-featured-bottom-space: var(--spacing-largest);
   --news-category-spacing: var(--spacing);

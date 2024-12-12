@@ -127,6 +127,11 @@ teaser:
     theme:
       css/components/teaser.css: {}
 
+card:
+  css:
+    theme:
+      css/components/card.css: {}
+
 page-sections:
   css:
     theme:
