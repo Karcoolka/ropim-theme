@@ -36,7 +36,7 @@ body {
     We should not refer to these directly in our CSS however. Instead,
     we use the names at our "Colours Applied" section.
   */
-  --color-accent: rgb(11, 134, 42);
+  --color-accent: rgb(100, 206, 127);
   --color-accent-2: #ffe146;
   --color-green: #048a04;
   --color-red: #e4251b;
